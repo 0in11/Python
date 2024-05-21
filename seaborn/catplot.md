@@ -1,5 +1,5 @@
  - catplot
-        
+   -     
     ```python
      #ex)
     g = sns.catplot(x="Sex", y="Age", data=train, kind="box",hue="Survived",
