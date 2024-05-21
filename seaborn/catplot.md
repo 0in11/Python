@@ -1,5 +1,4 @@
-
-    - catplot
+- catplot
         
         ```python
         #ex)
