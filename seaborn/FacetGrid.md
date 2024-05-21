@@ -1,6 +1,6 @@
 
-- FacetGrid
-    
+- 'FacetGrid'
+    -
     ```python
     g = sns.FacetGrid(data=train,col="Survived")
     g.map(sns.histplot,"age")
