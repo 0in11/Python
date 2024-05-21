@@ -1,5 +1,5 @@
 
-- 'FacetGrid'
+-  FacetGrid
     -
     ```python
     g = sns.FacetGrid(data=train,col="Survived")
